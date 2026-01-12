@@ -1,0 +1,19 @@
+# Kabane Versions Configuration
+# Each version represents a sprint, release, or milestone
+#
+# Properties:
+# - id: Unique identifier (required)
+# - name: Display name (required)
+# - startDate: Start date (ISO format, optional)
+# - targetDate: Target delivery date (ISO format, optional)
+
+versions:
+  - id: v-sprint-1
+    name: Sprint 1
+    startDate: '2024-01-15'
+    targetDate: '2024-01-29'
+
+  - id: v-sprint-2
+    name: Sprint 2
+    startDate: '2024-01-29'
+    targetDate: '2024-02-12'

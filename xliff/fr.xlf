@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file target-language="fr" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+<body>
+<trans-unit id="sd5c9d12a8fdd5acd">
+  <source>Loading configuration...</source>
+  <target>Chargement de la configuration...</target>
+</trans-unit>
+<trans-unit id="s377e2bdc3cc38193">
+  <source>Checking authentication...</source>
+  <target>Vérification de l'authentification...</target>
+</trans-unit>
+<trans-unit id="s13a353b2ea8d7019">
+  <source>Failed to load configuration</source>
+  <target>Échec du chargement de la configuration</target>
+</trans-unit>
+<trans-unit id="s05fd532bd52adeae">
+  <source>Authentication failed</source>
+  <target>Échec de l'authentification</target>
+</trans-unit>
+<trans-unit id="s40fa8b8d709030b9">
+  <source>Loading repository...</source>
+  <target>Chargement du dépôt...</target>
+</trans-unit>
+<trans-unit id="s6a517cbdd3e053b5">
+  <source>Checking Kabane configuration...</source>
+  <target>Vérification de la configuration Kabane...</target>
+</trans-unit>
+<trans-unit id="s99a3dcf59c437fd1">
+  <source>Loading board configuration...</source>
+  <target>Chargement de la configuration du tableau...</target>
+</trans-unit>
+<trans-unit id="se975c3e239d0eca0">
+  <source>Loading tickets...</source>
+  <target>Chargement des tickets...</target>
+</trans-unit>
+<trans-unit id="s38b9c77911a67785">
+  <source>Failed to load data</source>
+  <target>Échec du chargement des données</target>
+</trans-unit>
+<trans-unit id="s8919420f48684916">
+  <source>Initializing Kabane...</source>
+  <target>Initialisation de Kabane...</target>
+</trans-unit>
+<trans-unit id="sda728aa82d12aa1b">
+  <source>Kabane initialized successfully!</source>
+  <target>Kabane initialisé avec succès !</target>
+</trans-unit>
+<trans-unit id="sff893a43f42955e5">
+  <source>Failed to initialize</source>
+  <target>Échec de l'initialisation</target>
+</trans-unit>
+<trans-unit id="s86b1443163182f82">
+  <source>You do not have permission to edit this repository</source>
+  <target>Vous n'avez pas la permission de modifier ce dépôt</target>
+</trans-unit>
+<trans-unit id="sc4c18c899a010407">
+  <source>Ticket updated successfully</source>
+  <target>Ticket mis à jour avec succès</target>
+</trans-unit>
+<trans-unit id="s0412af143b3a167e">
+  <source>Conflict: The file has been modified. Please refresh.</source>
+  <target>Conflit : Le fichier a été modifié. Veuillez rafraîchir.</target>
+</trans-unit>
+<trans-unit id="s297b4f7be33deece">
+  <source>Failed to update ticket</source>
+  <target>Échec de la mise à jour du ticket</target>
+</trans-unit>
+<trans-unit id="sebe07bf574bb83e2">
+  <source>Ticket created successfully</source>
+  <target>Ticket créé avec succès</target>
+</trans-unit>
+<trans-unit id="s282e274316a693f5">
+  <source>Failed to create ticket</source>
+  <target>Échec de la création du ticket</target>
+</trans-unit>
+<trans-unit id="s58916a6ddb5549c0">
+  <source>Version created successfully</source>
+  <target>Version créée avec succès</target>
+</trans-unit>
+<trans-unit id="sc593cbfb3794f527">
+  <source>Failed to create version</source>
+  <target>Échec de la création de la version</target>
+</trans-unit>
+<trans-unit id="sb3269b6930c63035">
+  <source>Version updated successfully</source>
+  <target>Version mise à jour avec succès</target>
+</trans-unit>
+<trans-unit id="s2b77f5dff253c1e6">
+  <source>Failed to update version</source>
+  <target>Échec de la mise à jour de la version</target>
+</trans-unit>
+<trans-unit id="s49730f3d5751a433">
+  <source>Loading...</source>
+  <target>Chargement...</target>
+</trans-unit>
+<trans-unit id="sb8b484426218b5a3">
+  <source>Configuration Error</source>
+  <target>Erreur de configuration</target>
+</trans-unit>
+<trans-unit id="s5d6a81c100ac6eb2">
+  <source>Create a</source>
+  <target>Créer un fichier</target>
+</trans-unit>
+<trans-unit id="saad01178f02a6a23">
+  <source>file</source>
+  <target>fichier</target>
+</trans-unit>
+<trans-unit id="s365f34ad0baa3b41">
+  <source>Initialize Kabane</source>
+  <target>Initialiser Kabane</target>
+</trans-unit>
+<trans-unit id="sadc022ec1a479318">
+  <source>The repository</source>
+  <target>Le dépôt</target>
+</trans-unit>
+<trans-unit id="s38db0d791b5180fa">
+  <source>does not have a</source>
+  <target>n'a pas de dossier</target>
+</trans-unit>
+<trans-unit id="s6d3bb0e8b31002fb">
+  <source>folder yet</source>
+  <target>pour l'instant</target>
+</trans-unit>
+<trans-unit id="scc4c6035a08c55b6">
+  <source>Click below to create the initial configuration with default columns and ticket types.</source>
+  <target>Cliquez ci-dessous pour créer la configuration initiale avec les colonnes et types de tickets par défaut.</target>
+</trans-unit>
+<trans-unit id="sdc6530bba8639cdc">
+  <source>You do not have write access to this repository.</source>
+  <target>Vous n'avez pas accès en écriture à ce dépôt.</target>
+</trans-unit>
+<trans-unit id="s250a7fc28124c361">
+  <source>Read only</source>
+  <target>Lecture seule</target>
+</trans-unit>
+<trans-unit id="s8fa032cdafb3c9b0">
+  <source>Sign Out</source>
+  <target>Déconnexion</target>
+</trans-unit>
+<trans-unit id="sd1754776b34d303b">
+  <source>Please enter your Personal Access Token</source>
+  <target>Veuillez entrer votre jeton d'accès personnel</target>
+</trans-unit>
+<trans-unit id="s6e1206a811c72fc0">
+  <source>Failed to validate token</source>
+  <target>Échec de la validation du jeton</target>
+</trans-unit>
+<trans-unit id="s3f9c368cd44f682b">
+  <source>An error occurred</source>
+  <target>Une erreur est survenue</target>
+</trans-unit>
+<trans-unit id="s994be140a88ff7fe">
+  <source>A beautiful Kanban board powered by GitHub</source>
+  <target>Un magnifique tableau Kanban propulsé par GitHub</target>
+</trans-unit>
+<trans-unit id="sa5263a282cb664b6">
+  <source>Sign in with Personal Access Token</source>
+  <target>Connexion avec un jeton d'accès personnel</target>
+</trans-unit>
+<trans-unit id="sd4834a205d67ccdf">
+  <source>Signing in...</source>
+  <target>Connexion en cours...</target>
+</trans-unit>
+<trans-unit id="s5e94738a2eeb8943">
+  <source>Sign In</source>
+  <target>Se connecter</target>
+</trans-unit>
+<trans-unit id="s5a8d1f2a16d9c454">
+  <source>How to create a token</source>
+  <target>Comment créer un jeton</target>
+</trans-unit>
+<trans-unit id="s5855112288e12328">
+  <source>Title is required</source>
+  <target>Le titre est requis</target>
+</trans-unit>
+<trans-unit id="s9ad213fc93f732f3">
+  <source>Identifier is required</source>
+  <target>L'identifiant est requis</target>
+</trans-unit>
+<trans-unit id="sa7e8875f9d0dece5">
+  <source>Only lowercase letters, numbers, and hyphens</source>
+  <target>Uniquement des lettres minuscules, chiffres et tirets</target>
+</trans-unit>
+<trans-unit id="s16f27a00347d8a68">
+  <source>Upload error:</source>
+  <target>Erreur d'envoi :</target>
+</trans-unit>
+<trans-unit id="s5787e20cab57b383">
+  <source>Unknown error</source>
+  <target>Erreur inconnue</target>
+</trans-unit>
+<trans-unit id="scf7039a044b42636">
+  <source>Delete error:</source>
+  <target>Erreur de suppression :</target>
+</trans-unit>
+<trans-unit id="sbd34ff4d8574b4bf">
+  <source>Save the ticket first to add images.</source>
+  <target>Enregistrez d'abord le ticket pour ajouter des images.</target>
+</trans-unit>
+<trans-unit id="se7692167f1edeef2">
+  <source>Uploading...</source>
+  <target>Envoi en cours...</target>
+</trans-unit>
+<trans-unit id="s2d575fc9907a6d12">
+  <source>Click or drag images here</source>
+  <target>Cliquez ou déposez des images ici</target>
+</trans-unit>
+<trans-unit id="s0d99b714a9374242">
+  <source>Accepted formats: JPG, PNG, GIF, WebP, SVG</source>
+  <target>Formats acceptés : JPG, PNG, GIF, WebP, SVG</target>
+</trans-unit>
+<trans-unit id="s5f343a43e7ea9f91">
+  <source>Error</source>
+  <target>Erreur</target>
+</trans-unit>
+<trans-unit id="s195e58556153ded3">
+  <source>Delete image</source>
+  <target>Supprimer l'image</target>
+</trans-unit>
+<trans-unit id="s67c8dda5bbb1aabb">
+  <source>Edit ticket</source>
+  <target>Modifier le ticket</target>
+</trans-unit>
+<trans-unit id="sb1f6b3c8be684efb">
+  <source>New ticket</source>
+  <target>Nouveau ticket</target>
+</trans-unit>
+<trans-unit id="s99f110d27e30b289">
+  <source>Title</source>
+  <target>Titre</target>
+</trans-unit>
+<trans-unit id="s7468e87263dfff7e">
+  <source>Identifier</source>
+  <target>Identifiant</target>
+</trans-unit>
+<trans-unit id="sea83c39651c6dc15">
+  <source>Used as filename. Lowercase letters, numbers and hyphens only.</source>
+  <target>Utilisé comme nom de fichier. Lettres minuscules, chiffres et tirets uniquement.</target>
+</trans-unit>
+<trans-unit id="s4aba9979380614e1">
+  <source>Classification</source>
+  <target>Classification</target>
+</trans-unit>
+<trans-unit id="sd2223afb7d6b100d">
+  <source>Type</source>
+  <target>Type</target>
+</trans-unit>
+<trans-unit id="sca8a1f6c66b46e48">
+  <source>Epic</source>
+  <target>Épopée</target>
+</trans-unit>
+<trans-unit id="s04ae2813e8c5edf2">
+  <source>Story</source>
+  <target>Histoire</target>
+</trans-unit>
+<trans-unit id="s166a5119b1139f75">
+  <source>Bug</source>
+  <target>Bug</target>
+</trans-unit>
+<trans-unit id="s03ee3cfb0919c62c">
+  <source>Task</source>
+  <target>Tâche</target>
+</trans-unit>
+<trans-unit id="s669b18c6d2d9c95b">
+  <source>None</source>
+  <target>Aucune</target>
+</trans-unit>
+<trans-unit id="s24f3a319b88552c1">
+  <source>Low</source>
+  <target>Basse</target>
+</trans-unit>
+<trans-unit id="sac6bdc71f750ac96">
+  <source>Medium</source>
+  <target>Moyenne</target>
+</trans-unit>
+<trans-unit id="s9deeefd89ca8a81d">
+  <source>High</source>
+  <target>Haute</target>
+</trans-unit>
+<trans-unit id="sa45f3300b97dabe8">
+  <source>Critical</source>
+  <target>Critique</target>
+</trans-unit>
+<trans-unit id="sbe7a49a3629c0f94">
+  <source>No version (Backlog)</source>
+  <target>Sans version (Backlog)</target>
+</trans-unit>
+<trans-unit id="s355b21b89ce5d9c5">
+  <source>Details</source>
+  <target>Détails</target>
+</trans-unit>
+<trans-unit id="s874b1922715f7b3a">
+  <source>Labels separated by commas</source>
+  <target>Labels séparés par des virgules</target>
+</trans-unit>
+<trans-unit id="sc06e73ccb0abb5c3">
+  <source>Description (Markdown)</source>
+  <target>Description (Markdown)</target>
+</trans-unit>
+<trans-unit id="s7eee5837fa9564f5">
+  <source>Describe the ticket in detail...</source>
+  <target>Décrivez le ticket en détail...</target>
+</trans-unit>
+<trans-unit id="s5e8250fb85d64c23">
+  <source>Close</source>
+  <target>Fermer</target>
+</trans-unit>
+<trans-unit id="sfc8531b2fd0f31cb">
+  <source>Images</source>
+  <target>Images</target>
+</trans-unit>
+<trans-unit id="s89e67fd80f40c338">
+  <source>Loading image...</source>
+  <target>Chargement de l'image...</target>
+</trans-unit>
+<trans-unit id="sb8a384f253aeeb1c">
+  <source>Image not available</source>
+  <target>Image non disponible</target>
+</trans-unit>
+<trans-unit id="sa2a4b78f72cfbd94">
+  <source>Ticket not found</source>
+  <target>Ticket non trouvé</target>
+</trans-unit>
+<trans-unit id="sc16e00a7a8b2fde2">
+  <source>Back</source>
+  <target>Retour</target>
+</trans-unit>
+<trans-unit id="s1eaccbf2d6af8ab5">
+  <source>Information</source>
+  <target>Informations</target>
+</trans-unit>
+<trans-unit id="sad3e3c8146fc920f">
+  <source>Status</source>
+  <target>Statut</target>
+</trans-unit>
+<trans-unit id="sa4e407b3a0fe4669">
+  <source>Priority</source>
+  <target>Priorité</target>
+</trans-unit>
+<trans-unit id="s2a5dfc63c653c0ef">
+  <source>Not defined</source>
+  <target>Non défini</target>
+</trans-unit>
+<trans-unit id="sbf4e5f7cb18b3fa6">
+  <source>Not assigned</source>
+  <target>Non assigné</target>
+</trans-unit>
+<trans-unit id="s769581a579f940a8">
+  <source>Estimation (points)</source>
+  <target>Estimation (points)</target>
+</trans-unit>
+<trans-unit id="sdd02ad83d7cf88a6">
+  <source>points</source>
+  <target>points</target>
+</trans-unit>
+<trans-unit id="s00ca63d06cda71bc">
+  <source>Not estimated</source>
+  <target>Non estimé</target>
+</trans-unit>
+<trans-unit id="se4ff94b01e9cef6b">
+  <source>Due date</source>
+  <target>Date d'échéance</target>
+</trans-unit>
+<trans-unit id="sf7c7d5df9f5eddc7">
+  <source>Parent ticket</source>
+  <target>Ticket parent</target>
+</trans-unit>
+<trans-unit id="sb02e58a71b22563e">
+  <source>No parent</source>
+  <target>Aucun parent</target>
+</trans-unit>
+<trans-unit id="s3fa5b96cbe7af51b">
+  <source>Assignees</source>
+  <target>Assignés</target>
+</trans-unit>
+<trans-unit id="s8a9eb438abac7c6a">
+  <source>Labels</source>
+  <target>Labels</target>
+</trans-unit>
+<trans-unit id="s63d894b1ddb06289">
+  <source>Description</source>
+  <target>Description</target>
+</trans-unit>
+<trans-unit id="s93fa7dd78e306ab0">
+  <source>No description</source>
+  <target>Aucune description</target>
+</trans-unit>
+<trans-unit id="s4b1329a67304d94c">
+  <source>Created on</source>
+  <target>Créé le</target>
+</trans-unit>
+<trans-unit id="sd68c84309b53e5cf">
+  <source>Modified on</source>
+  <target>Modifié le</target>
+</trans-unit>
+<trans-unit id="sf4122b220926be97">
+  <source>Version</source>
+  <target>Version</target>
+</trans-unit>
+<trans-unit id="sf233de739c3685a9">
+  <source>All versions</source>
+  <target>Toutes les versions</target>
+</trans-unit>
+<trans-unit id="s4ae9a35755f6779d">
+  <source>Edit version</source>
+  <target>Modifier la version</target>
+</trans-unit>
+<trans-unit id="s64ef2a6c2dd1d3d1">
+  <source>Edit</source>
+  <target>Modifier</target>
+</trans-unit>
+<trans-unit id="sa3d473c2e414efdd">
+  <source>New version</source>
+  <target>Nouvelle version</target>
+</trans-unit>
+<trans-unit id="s61cf861da0dba356">
+  <source>Version name</source>
+  <target>Nom de la version</target>
+</trans-unit>
+<trans-unit id="s5d4fae688db06a41">
+  <source>Start date</source>
+  <target>Date de début</target>
+</trans-unit>
+<trans-unit id="s3329afa7447596ec">
+  <source>Target date</source>
+  <target>Date cible</target>
+</trans-unit>
+<trans-unit id="s2ceb11be2290bb1b">
+  <source>Cancel</source>
+  <target>Annuler</target>
+</trans-unit>
+<trans-unit id="s717d4a2cd3f7d66f">
+  <source>Saving...</source>
+  <target>Enregistrement...</target>
+</trans-unit>
+<trans-unit id="s99775221d3003db4">
+  <source>Creating...</source>
+  <target>Création...</target>
+</trans-unit>
+<trans-unit id="s33f85f24c0f5f008">
+  <source>Save</source>
+  <target>Enregistrer</target>
+</trans-unit>
+<trans-unit id="s382a2aa3984474dd">
+  <source>Create</source>
+  <target>Créer</target>
+</trans-unit>
+<trans-unit id="s52a36accd4a11d77">
+  <source>Loading contributors...</source>
+  <target>Chargement des contributeurs...</target>
+</trans-unit>
+<trans-unit id="sea4f08110bb8f15d">
+  <source>Remove</source>
+  <target>Supprimer</target>
+</trans-unit>
+<trans-unit id="s913cb5351553dcd2">
+  <source>Search or add assignee...</source>
+  <target>Rechercher ou ajouter un assigné...</target>
+</trans-unit>
+<trans-unit id="sf9aee319a006c9b4">
+  <source>Add</source>
+  <target>Ajouter</target>
+</trans-unit>
+<trans-unit id="s991d216e6efc157c">
+  <source>No results</source>
+  <target>Aucun résultat</target>
+</trans-unit>
+<trans-unit id="s607059e685307525">
+  <source>Search parent ticket...</source>
+  <target>Rechercher un ticket parent...</target>
+</trans-unit>
+</body>
+</file>
+</xliff>

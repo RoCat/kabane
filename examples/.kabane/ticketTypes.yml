@@ -1,0 +1,20 @@
+ticketTypes:
+  - id: epic
+    name: Epic
+    icon: "🎯"
+    color: "#a371f7"
+
+  - id: story
+    name: Story
+    icon: "📖"
+    color: "#58a6ff"
+
+  - id: bug
+    name: Bug
+    icon: "🐛"
+    color: "#f85149"
+
+  - id: task
+    name: Task
+    icon: "✅"
+    color: "#3fb950"

@@ -1,0 +1,23 @@
+# Kabane Columns Configuration
+# Note: The "Backlog" column is automatically added and cannot be customized.
+# Define your workflow columns below.
+
+columns:
+  - id: todo
+    name: To Do
+    statuses:
+      - todo
+    color: "#58a6ff"
+
+  - id: in-progress
+    name: In Progress
+    statuses:
+      - in-progress
+      - review
+    color: "#d29922"
+
+  - id: done
+    name: Done
+    statuses:
+      - done
+    color: "#3fb950"
