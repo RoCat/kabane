@@ -1,0 +1,34 @@
+title: Login button not responding on mobile Safari
+type: bug
+status: todo
+priority: critical
+version: v-sprint-1
+labels:
+  - bug
+  - mobile
+  - safari
+description: |
+  ## Bug Description
+
+  The login button doesn't respond to taps on mobile Safari (iOS 17.2).
+  The issue is intermittent and seems to occur after the page has been
+  open for more than 30 seconds.
+
+  ## Steps to Reproduce
+
+  1. Open the login page on iPhone Safari
+  2. Wait 30+ seconds
+  3. Try to tap the login button
+  4. Nothing happens
+
+  ## Expected Behavior
+
+  The login button should submit the form.
+
+  ## Environment
+
+  - Device: iPhone 15 Pro
+  - OS: iOS 17.2
+  - Browser: Safari
+createdAt: "2024-01-19T08:30:00Z"
+updatedAt: "2024-01-19T08:30:00Z"

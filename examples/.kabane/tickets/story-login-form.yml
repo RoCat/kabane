@@ -1,0 +1,25 @@
+title: Login Form Implementation
+type: story
+status: done
+priority: high
+parent: epic-auth
+version: v-sprint-1
+assignees:
+  - octocat
+labels:
+  - frontend
+  - authentication
+estimate: 5
+description: |
+  As a user, I want to log in with my email and password
+  so that I can access my account.
+
+  ## Tasks
+
+  - [x] Create login form component
+  - [x] Add form validation
+  - [x] Implement API integration
+  - [x] Add error handling
+  - [x] Write unit tests
+createdAt: "2024-01-16T09:00:00Z"
+updatedAt: "2024-01-18T16:45:00Z"

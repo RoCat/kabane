@@ -1,0 +1,93 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Kabane Configuration",
+  "description": "Configuration file for Kabane - Tickets as Code. Place this file in your deployment as kabane.config.json",
+  "type": "object",
+  "required": ["repository", "columns"],
+  "properties": {
+    "repository": {
+      "type": "string",
+      "description": "Target repository in owner/repo format",
+      "pattern": "^[a-zA-Z0-9_-]+/[a-zA-Z0-9_.-]+$",
+      "examples": ["myorg/my-project"]
+    },
+    "ticketsPath": {
+      "type": "string",
+      "description": "Path to the directory containing ticket files",
+      "default": "kabane",
+      "examples": ["kabane", ".tickets", "docs/tickets"]
+    },
+    "defaultBranch": {
+      "type": "string",
+      "description": "Default branch to read/write tickets",
+      "default": "main",
+      "examples": ["main", "master", "develop"]
+    },
+    "columns": {
+      "type": "array",
+      "description": "Kanban board column definitions",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "statuses"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Unique identifier for the column",
+            "examples": ["backlog", "todo", "in-progress", "done"]
+          },
+          "name": {
+            "type": "string",
+            "description": "Display name for the column",
+            "examples": ["Backlog", "To Do", "In Progress", "Done"]
+          },
+          "statuses": {
+            "type": "array",
+            "description": "Status values that map to this column",
+            "items": {
+              "type": "string"
+            },
+            "minItems": 1,
+            "examples": [["todo", "ready"], ["in-progress", "doing"]]
+          },
+          "color": {
+            "type": "string",
+            "description": "Color for the column header (hex or CSS color)",
+            "pattern": "^#[0-9a-fA-F]{6}$|^[a-z]+$",
+            "examples": ["#58a6ff", "#3fb950"]
+          }
+        }
+      }
+    },
+    "ticketTypes": {
+      "type": "array",
+      "description": "Custom ticket type definitions",
+      "items": {
+        "type": "object",
+        "required": ["id", "name"],
+        "properties": {
+          "id": {
+            "type": "string",
+            "description": "Type identifier",
+            "examples": ["epic", "story", "bug", "task"]
+          },
+          "name": {
+            "type": "string",
+            "description": "Display name",
+            "examples": ["Epic", "User Story", "Bug", "Task"]
+          },
+          "icon": {
+            "type": "string",
+            "description": "Emoji or icon for the type",
+            "examples": ["⚡", "📖", "🐛", "✅"]
+          },
+          "color": {
+            "type": "string",
+            "description": "Color for type badges",
+            "examples": ["#a371f7", "#3fb950"]
+          }
+        }
+      }
+    }
+  }
+}

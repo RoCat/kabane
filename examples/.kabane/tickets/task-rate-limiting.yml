@@ -1,0 +1,20 @@
+title: Add rate limiting to login endpoint
+type: task
+status: backlog
+priority: medium
+parent: epic-auth
+labels:
+  - security
+  - backend
+estimate: 3
+description: |
+  Implement rate limiting on the login endpoint to prevent brute force attacks.
+
+  ## Requirements
+
+  - Max 5 failed attempts per IP per minute
+  - Max 10 failed attempts per account per hour
+  - Return 429 status code when rate limited
+  - Log rate limit events for monitoring
+createdAt: "2024-01-20T09:00:00Z"
+updatedAt: "2024-01-20T09:00:00Z"
